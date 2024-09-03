@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ./#13-ThuVien/server.js"
+    "start": "node ./#14-Express-HelloWord/server.js"
   },
   "repository": {
     "type": "git",
