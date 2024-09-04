@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ./#17-MoreRoutes/server.js"
+    "start": "node ./#18-Template(View)Engine/server.js"
   },
   "repository": {
     "type": "git",
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/heju1201/Node.Js-Tutorial#readme",
   "dependencies": {
+    "ejs": "^3.1.10",
     "express": "^4.19.2"
   }
 }
